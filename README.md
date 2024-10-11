@@ -4,7 +4,7 @@
 
 # 1. "IceCream"
 <p>Описание: это учебный проект, вёрстка сайта с помощью HTML, CSS по макету (с макетом работала в Figma, для точной верстки использовала PerfectPixel).</p>
-<p>https://github.com/user-attachments/assets/0e8ebfe8-d7df-48de-ac85-bf3543c0bbe6</p>
+<p>https://github.com/user-attachments/assets/9da6a6e0-9096-45dd-acb1-d756439628b1</p>
 <p>Ссылка на проект: https://github.com/D0nAlen/IceCream</p>
 
 
@@ -12,14 +12,14 @@
 <p>Описание: это учебный проект, приложение для создания и управления заметками.
 Для этого JavaScript проекта я реализовала сервер с данными для приложения (с помощью Express) https://github.com/D0nAlen/ServerTaskmanager, и само приложение:
 https://github.com/D0nAlen/taskmanager.</p>
-<p>https://github.com/user-attachments/assets/bcf73142-60f8-40ba-aea1-f39ded24549a</p>
+<p>https://github.com/user-attachments/assets/c1e63933-3af6-4d8d-82c9-a3d3adaea626</p>
 
 
 # 3. "Kinoman"
 <p>Описание: это учебный проект, приложение для управления базой фильмов.
 Для этого JavaScript проекта я реализовала сервер с данными для приложения (с помощью Express) https://github.com/D0nAlen/ServerKinoman,
 и само приложение: https://github.com/D0nAlen/kinoman.</p>
-<p>https://github.com/user-attachments/assets/88ef3859-6edd-42eb-bb11-707e01f91bdc</p>
+<p>https://github.com/user-attachments/assets/b6e6eacc-3e6f-4a1c-87f1-f4165c35c2e1</p>
 
 
 # 4. "Social Network"
